@@ -1,0 +1,10 @@
+*.apk
+*.lock
+*.bin
+*.class
+*.jar
+*.bin
+*.dex
+*.store
+*.ap_
+*.aar

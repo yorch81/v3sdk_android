@@ -1,10 +1,11 @@
-# V3ctor Java Sdk #
+# V3ctor Android Sdk #
 
 ## Description ##
-V3ctor WareHouse JAVA Sdk.
+V3ctor WareHouse Android Sdk.
 
 ## Requirements ##
 * [Java](https://www.java.com/es/download/)
+* [Android](https://es.wikipedia.org/wiki/Android)
 
 ## Developer Documentation ##
 JavaDoc.
