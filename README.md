@@ -6,12 +6,14 @@ V3ctor WareHouse Android Sdk.
 ## Requirements ##
 * [Java](https://www.java.com/es/download/)
 * [Android](https://es.wikipedia.org/wiki/Android)
+* [Bintray Repository](https://bintray.com/yorch81/maven/V3SDK_4_Android)
 
 ## Developer Documentation ##
 JavaDoc.
 
 ## Installation ##
-clone repository and execute mvn package
+Add dependency to build.gradle.
+	compile 'net.yorch.android:V3SDK:1.1'
 
 ## Example ##
 ~~~
@@ -54,6 +56,9 @@ while (iter.hasNext()) {
 v3.deleteObject("demo", id);
 
 ~~~
+
+## Demo ##
+The directory v3sdk_demo contains an Android Demo.
 
 ## References ##
 https://www.java.com/
