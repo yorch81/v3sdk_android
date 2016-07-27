@@ -12,8 +12,13 @@ V3ctor WareHouse Android Sdk.
 JavaDoc.
 
 ## Installation ##
-Add dependency to build.gradle.
-	compile 'net.yorch.android:V3SDK:1.1'
+Add dependency to build.gradle and sync.
+
+~~~
+
+compile 'net.yorch.android:V3SDK:1.1'
+
+~~~
 
 ## Example ##
 ~~~
