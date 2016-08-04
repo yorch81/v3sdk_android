@@ -6,6 +6,9 @@
 *.ap_
 *.aar
 
+.classpath
+.project
+
 *.class
 *.jar
 bin/
