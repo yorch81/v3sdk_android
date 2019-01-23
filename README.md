@@ -8,6 +8,19 @@ V3ctor WareHouse Android Sdk.
 * [Android](https://es.wikipedia.org/wiki/Android)
 * [Bintray Repository](https://bintray.com/yorch81/maven/V3SDK_4_Android)
 
+## Android Update ##
+For android new versions, you must add the next line to build.gradle.
+
+~~~
+
+android {
+    useLibrary 'org.apache.http.legacy'
+}
+
+~~~
+
+After you must create a class and copy and paste the class code contains in the directory android.
+
 ## Developer Documentation ##
 JavaDoc.
 
